@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SOnyY7nqARQ=",
+  "dgSpecHash": "IpbID2tRzMU=",
   "success": true,
-  "projectFilePath": "D:\\1.BE\\Extensions\\Extensions\\Extensions.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\1.Workspace\\4. BE\\Extension\\Extensions\\Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blogic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\blogic\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\blogic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\blogic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

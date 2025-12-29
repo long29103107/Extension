@@ -39,4 +39,7 @@ public static class DateTimeExtensions
         }
         return nextDay;
     }
+
+    public static long ToUnixTimeSeconds(this DateTime dt)
+        => new DateTimeOffset(dt).ToUnixTimeSeconds();
 }
